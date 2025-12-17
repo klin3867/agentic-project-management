@@ -271,6 +271,8 @@ If you've created a delegation guide that could benefit the APM community, pleas
 
 Model Context Protocol (MCP) tools can significantly enhance APM agent capabilities by providing real-time access to external systems and up-to-date information.
 
+> **Note**: If you have existing OpenAPI specifications and want to convert them into MCP servers for use with APM, see the **[OpenAPI to MCP Resources](OpenAPI_to_MCP_Resources.md)** guide for comprehensive information on available conversion tools and repositories.
+
 ### Recommended MCP Tools for APM
 
 #### Development and Documentation

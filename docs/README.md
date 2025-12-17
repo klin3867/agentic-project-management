@@ -21,6 +21,9 @@ This documentation suite provides in-depth coverage of APM's architecture, workf
 - **[Context and Memory Management](Context_and_Memory_Management.md)** - Deep dive into APM's architecture and Dynamic-MD Memory System.
 - **[Context and Prompt Engineering](Context_and_Prompt_Engineering.md)** - In-depth explanation of how APM's prompts and guides shape agent context and behavior.
 
+### External Resources
+- **[OpenAPI to MCP Resources](OpenAPI_to_MCP_Resources.md)** - Comprehensive guide to repositories and tools for converting OpenAPI specifications into Model Context Protocol (MCP) servers.
+
 ## Recommended Reading Order
 
 1.  Begin with the **[Introduction](Introduction.md)** to understand the APM v0.5 framework and the CLI setup.

@@ -103,6 +103,7 @@ APM v0.5 includes comprehensive documentation covering all aspects of the framew
 | **[Troubleshooting Guide](docs/Troubleshooting_Guide.md)** | Troubleshooting for common issues |
 | **[Context & Memory Management](docs/Context_and_Memory_Management.md)** (advanced) | How APM handles context and manages memory across agent instances  |
 | **[Context & Prompt Engineering](docs/Context_and_Prompt_Engineering.md)** (advanced) | Prompt and context engineering techniques used throughout the framework |
+| **[OpenAPI to MCP Resources](docs/OpenAPI_to_MCP_Resources.md)** | Guide to repositories and tools for converting OpenAPI specs to MCP servers |
 
 For a complete documentation index with recommended reading order, see the **[Documentation Hub](docs/README.md)**.
 
